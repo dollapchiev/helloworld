@@ -12,4 +12,6 @@
 		<%= request.getRemoteAddr()  %></p>
 	<p>
 		Change1</p>
+	<p>
+		Change2</p>
 </body>
