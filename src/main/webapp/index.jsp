@@ -15,5 +15,5 @@
 	<p>
 		Change2</p>
 		<p>
-		dali ne gi useshtam?</p>
+		Posledni testove</p>
 </body>
