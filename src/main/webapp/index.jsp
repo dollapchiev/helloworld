@@ -17,5 +17,5 @@
 		<p>
 		Posledni testove</p>
 		<p>
-		Posledni testove</p>
+		Zashtitata diplomna</p>
 </body>
