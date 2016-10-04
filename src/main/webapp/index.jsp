@@ -14,8 +14,7 @@
 		Change1</p>
 	<p>
 		Change2</p>
-		<p>
-		stopmakingchanges</p>
+		
 		<p>
 		stopmakingchanges</p>
 		<p>
