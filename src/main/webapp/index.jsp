@@ -15,6 +15,6 @@
 	<p>
 		Change2</p>
 		<p>
-		Last changes</p>
+		stopmakingchanges</p>
 		
 </body>
