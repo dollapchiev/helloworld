@@ -15,7 +15,6 @@
 	<p>
 		Change2</p>
 		<p>
-		Posledni testove</p>
-		<p>
-		Zashtitata diplomna</p>
+		Last changes</p>
+		
 </body>
